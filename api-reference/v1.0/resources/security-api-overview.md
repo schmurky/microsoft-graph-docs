@@ -46,7 +46,7 @@ Use [runHuntingQuery](../api/security-security-runhuntingquery.md) to run a [Kus
 ## Custom detections
 [Custom detection rules](/microsoft-365/security/defender/custom-detections-overview) specific to your security operations can be created in advanced hunting to allow you to proactively monitor for threats and take action. For instance, you can make custom detection rules that look for known indicators or misconfigured devices. These automatically trigger alerts and any response actions that you specify.
 
-### Quotas
+### Quotas 
 
 1.	Get multiple rules: 10 rules per minute per application, 300 rules per hour per application, 600 rules per hour per tenant
 2.	Get a single rule: 100 rules per minute per application, 1,500 rules per hour per application, 1,800 rules per hour per tenant
